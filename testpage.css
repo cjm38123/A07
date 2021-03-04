@@ -1,6 +1,8 @@
 h1{
     margin: 0;
     padding: .25cm;
+    color: red;
+    font-size: 180%;
 }
 
 body{
